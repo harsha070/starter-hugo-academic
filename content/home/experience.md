@@ -22,28 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Senior Machine Learning Engineer
+    company: Sprinklr
+    company_url: 'https://www.sprinklr.com'
+    company_logo: org-sprinklr
+    location: New Delhi
+    date_start: '2019-06-03'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        * Translating Research in NLP, Vision and Speech Processing to Production
+        * Scaling and Maintanance of ML Infrastructure
         
-        * Analysing
-        * Modelling
-        * Deploying
+  - title: Process Excellence Intern
+    company: Wipro Infrastructure Engineering
+    company_url: 'https://www.wiproinfra.com/'
+    company_logo: org-wipro
+    location: Bangalore
+    date_start: '2018-05-15'
+    date_end: '2018-07-15'
+    description: Optimized a production line with lean manufacturing methods, value stream mapping
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Product Development Intern
+    company: Titan Company Limited, IIT Madras Research Park
+    company_url: 'https://www.wiproinfra.com/'
+    company_logo: org-titan
+    location: Chennai
+    date_start: '2017-05-07'
+    date_end: '2017-07-22'
+    description: Motion Sensing software. C#, Unity, Micro-controller programming
+  
 
 design:
   columns: '2'
